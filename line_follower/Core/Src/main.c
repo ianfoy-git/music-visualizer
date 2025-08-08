@@ -217,7 +217,7 @@ int main(void)
  songs[7].bpm = 128;
  songs[7].duration = 201;
  songs[7].genre = 2;
- //song 8: percocet and stripper joint
+ //song 8: Future song
  songs[8].bpm = 80;
  songs[8].duration = 148;
  songs[8].genre = 1;
@@ -1120,3 +1120,4 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
+
